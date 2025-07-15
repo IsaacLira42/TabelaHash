@@ -1,0 +1,33 @@
+### Rider + .NET Core Console ###
+# Build and project directories
+[Bb]in/
+[Oo]bj/
+out/
+
+# Rider/ReSharper cache
+.idea/
+*.iml
+/_ReSharper.Caches/
+*.DotSettings.user
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# NuGet and packages
+.nuget/
+/packages/
+*.nupkg
+nuget.exe
+
+# Debug/Test logs
+[Tt]est[Rr]esults/
+*.log
+*.log*
+
+# macOS junk
+.DS_Store
+
+# VS Code (caso use como editor secundário)
+.vscode/
